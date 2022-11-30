@@ -2,11 +2,9 @@
 
 **Módulos Arduino no Esp32 (Conversor de Nível Lógico)** 
 
-Projeto do Vídeo Q0966 Série **_Matatona Maker_** powered by **_Petrobras_**
+Projeto do Vídeo Q0966 Série **_Maratona Maker_** powered by **_Petrobras_**
 
 :video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/zaq4IKxGBtg)
-
-<img src="https://i9.ytimg.com/vi_webp/zaq4IKxGBtg/maxresdefault.webp?v=6385a971&sqp=CMDSlpwG&rs=AOn4CLDcUO32lLsLgpfMQER_Q_3jFxGqrQ" width="900px" />
 
 
 - Confira esse e outros projetos de Esp32 assistindo a Playlist [(Clique Aqui)](https://youtube.com/playlist?list=PL7CjOZ3q8fMdgvaq988L97y05Gb219fLd)
